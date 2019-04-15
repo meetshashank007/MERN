@@ -1,0 +1,23 @@
+{
+  "name": "devconnector",
+  "version": "1.0.0",
+  "description": "simple mern application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "react",
+    "demo"
+  ],
+  "author": "shashank",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
