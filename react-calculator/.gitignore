@@ -27,3 +27,12 @@ yarn-error.log*
 package-lock.json
 
 ../.gitignore
+../TestRealworld/
+../calculator-basic/
+../demo-mern/
+../demo/
+../devconnector/
+../mern_docker_demo/
+../paper-dashboard-react-master/
+../reduxexample/
+../tic_tac_toe/
