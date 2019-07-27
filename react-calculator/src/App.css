@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(116, 125, 140, 0.7);
+}
+
+/* code from other dev */
+
+.saleh {
+  margin: 0 auto;
+}
+
+.calcontainer {
+  margin-left: 0;
+  margin-top: 30px;
+  width: 316px;
+}
+
+#panel {
+  text-align: right;
+  width: 274px;
+  height: 80px;
+  font-size: 26px;
+  background-color: white;
+}
+
+#panel:hover {
+  cursor: col-resize;
+}
+
+.bttn {
+  margin-bottom: 8px;
+  margin-left: 5px;
+  width: 59px;
+  height: 45px;
+  font-size: 22px;
+}
+
+.bttne {
+  width: 120px;
+  margin-top: 10px;
+  margin-right: 11px;
+}
